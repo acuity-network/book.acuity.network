@@ -11,3 +11,4 @@
   - [Index Event Log](./lessons_learned/index_event_log.md)
 - [Acuity Index](./acuity_index.md)
 - [Rich Nodes](./rich_nodes.md)
+- [Tokenomics](./tokenomics.md)
